@@ -1,7 +1,15 @@
-a = int(input()) # First input is 3 in HackerRank
-b = int(input()) # Second input is 5 in HackerRank
- 
-           # Expected outputs
-print(a+b) # 8  
-print(a-b) # -2
-print(a*b) # 15
+# Add, subtract and multiply two numbers
+# Input:
+# 3
+# 5
+# Output:
+# 8
+# -2
+# 15
+
+a = int(input()) 
+b = int(input()) 
+
+print(a+b)  
+print(a-b)
+print(a*b) 
