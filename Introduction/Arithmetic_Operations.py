@@ -3,5 +3,5 @@ b = int(input()) # Second input is 5 in HackerRank
  
            # Expected outputs
 print(a+b) # 8  
-print(a-b) # 1
-print(a*b) # 6
+print(a-b) # -2
+print(a*b) # 15
